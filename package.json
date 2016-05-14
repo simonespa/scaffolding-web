@@ -1,0 +1,23 @@
+{
+  "name": "scaffolding-web",
+  "version": "1.0.0",
+  "description": "Scaffolding template for web projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author ": {
+    "name": "Simone Spaccarotella",
+    "email": "spa.simone@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "jshint-stylish": "^2.2.0"
+  }
+}

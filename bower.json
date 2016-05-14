@@ -1,0 +1,19 @@
+{
+  "name": "scaffolding-web",
+  "description": "Scaffolding template for web projects (NodeJS, AngularJS, etc.)",
+  "authors": [
+    {
+      "name": "Simone Spaccarotella",
+      "email": "spa.simone@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
